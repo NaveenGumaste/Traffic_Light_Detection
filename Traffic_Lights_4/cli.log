@@ -1,6 +1,0 @@
-[2023-12-02 21:45:09,332][tensorflow][WARNING] - From c:\Users\navee\miniconda3\envs\cims\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
-
-[2023-12-02 21:45:29,254][tensorflow][WARNING] - From c:\Users\navee\miniconda3\envs\cims\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
-
-[2023-12-02 21:50:12,524][tensorflow][WARNING] - From c:\Users\navee\miniconda3\envs\cims\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
-
