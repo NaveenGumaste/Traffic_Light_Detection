@@ -10,5 +10,5 @@ roboflow:
   version: 1
   workspace: wawan-pradana
 test: ../test/images
-train: cinTA_v2\train\images
-val: cinTA_v2\valid\images
+train: E:\Traffic_Light_Detection\Datasets\cinTA_v2\train\images
+val: E:\Traffic_Light_Detection\Datasets\cinTA_v2\valid\images
